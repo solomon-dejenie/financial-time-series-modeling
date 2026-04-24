@@ -1,15 +1,43 @@
-# Financial Time Series Modeling Report
+# Final Technical Report
 
-## 1. Problem
-Non-stationarity, multicollinearity, feature redundancy.
+## Executive Summary
+This report investigates non-stationarity, multicollinearity, and feature extraction in financial time series.
 
-## 2. Methods
-ADF, VECM, PCA.
+---
 
-## 3. Results
-- Equilibrium detected
-- VIF reduced
-- Dimensionality reduced
+## Problem Statement
+Traditional models often fail under:
+- stochastic trends
+- correlated regressors
+- high-dimensional feature sets
 
-## 4. Conclusion
-Robust econometric framework achieved.
+---
+
+## Methodology
+
+### Challenge 1
+- ADF Tests
+- Cointegration
+- ECM
+
+### Challenge 2
+- VIF Diagnostics
+- PCA Solutions
+
+### Challenge 3
+- Feature Compression
+- Variance Retention
+
+---
+
+## Results
+Insert:
+- Charts
+- Diagnostics
+- Tables
+- Interpretations
+
+---
+
+## Conclusion
+Summarize findings and deployment opportunities.
